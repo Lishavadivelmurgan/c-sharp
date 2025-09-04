@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\lishaC#\program\program\bin\Debug\net8.0\program.exe
+C:\Users\Student\Documents\lishaC#\program\program\bin\Debug\net8.0\program.deps.json
+C:\Users\Student\Documents\lishaC#\program\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\Student\Documents\lishaC#\program\program\bin\Debug\net8.0\program.dll
+C:\Users\Student\Documents\lishaC#\program\program\bin\Debug\net8.0\program.pdb
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\program.dll
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\program.pdb
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\Student\Documents\lishaC#\program\program\obj\Debug\net8.0\ref\program.dll
