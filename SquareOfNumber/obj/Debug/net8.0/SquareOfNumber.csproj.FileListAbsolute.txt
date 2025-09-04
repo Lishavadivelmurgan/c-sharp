@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\bin\Debug\net8.0\SquareOfNumber.exe
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\bin\Debug\net8.0\SquareOfNumber.deps.json
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\bin\Debug\net8.0\SquareOfNumber.runtimeconfig.json
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\bin\Debug\net8.0\SquareOfNumber.dll
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\bin\Debug\net8.0\SquareOfNumber.pdb
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\SquareOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\SquareOfNumber.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\SquareOfNumber.AssemblyInfo.cs
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\SquareOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\SquareOfNumber.dll
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\refint\SquareOfNumber.dll
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\SquareOfNumber.pdb
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\SquareOfNumber.genruntimeconfig.cache
+C:\Users\Student\Downloads\kartik c#\SquareOfNumber\obj\Debug\net8.0\ref\SquareOfNumber.dll
