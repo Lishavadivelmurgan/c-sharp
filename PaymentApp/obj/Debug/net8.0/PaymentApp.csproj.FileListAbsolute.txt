@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\kartik c#\PaymentApp\bin\Debug\net8.0\PaymentApp.exe
+C:\Users\Student\Downloads\kartik c#\PaymentApp\bin\Debug\net8.0\PaymentApp.deps.json
+C:\Users\Student\Downloads\kartik c#\PaymentApp\bin\Debug\net8.0\PaymentApp.runtimeconfig.json
+C:\Users\Student\Downloads\kartik c#\PaymentApp\bin\Debug\net8.0\PaymentApp.dll
+C:\Users\Student\Downloads\kartik c#\PaymentApp\bin\Debug\net8.0\PaymentApp.pdb
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\PaymentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\PaymentApp.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\PaymentApp.AssemblyInfo.cs
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\PaymentApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\PaymentApp.dll
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\refint\PaymentApp.dll
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\PaymentApp.pdb
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\PaymentApp.genruntimeconfig.cache
+C:\Users\Student\Downloads\kartik c#\PaymentApp\obj\Debug\net8.0\ref\PaymentApp.dll
