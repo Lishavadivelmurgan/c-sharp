@@ -1,0 +1,14 @@
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\bin\Debug\net8.0\vehicles.exe
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\bin\Debug\net8.0\vehicles.deps.json
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\bin\Debug\net8.0\vehicles.runtimeconfig.json
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\bin\Debug\net8.0\vehicles.dll
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\bin\Debug\net8.0\vehicles.pdb
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\vehicles.AssemblyInfoInputs.cache
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\vehicles.AssemblyInfo.cs
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\vehicles.csproj.CoreCompileInputs.cache
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\vehicles.dll
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\refint\vehicles.dll
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\vehicles.pdb
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\vehicles.genruntimeconfig.cache
+C:\Users\lisha\OneDrive\Documents\C#\vehicles\vehicles\obj\Debug\net8.0\ref\vehicles.dll
